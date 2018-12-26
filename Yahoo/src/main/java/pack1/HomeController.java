@@ -8,7 +8,12 @@ public class HomeController {
 	@Path("/show")
 	@POST
 	public void showMessage(){
-		System.out.println("Hello Monu!!! WElcome!!! sdasdas");
+
+	
+
+		System.out.println("Hello Monu!!!");
+		System.out.println("hello Karuna");
+
 	}
 
 }
